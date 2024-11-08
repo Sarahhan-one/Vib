@@ -1,6 +1,7 @@
 # Vib : Wearable Directional Assistant
 
-![image](https://github.com/user-attachments/assets/dd931122-ff3b-4bf1-a659-7b5e057d0389)
+![Vib_rev2_animation](https://github.com/user-attachments/assets/d29d3a90-f860-43cd-87ef-b41007e80435)
+![378704736-dd931122-ff3b-4bf1-a659-7b5e057d0389](https://github.com/user-attachments/assets/982c290e-01b9-43ef-b54c-f7a6e874bcbb)
 
 ## What is Vib? 
 Vib is a ```wearable smart anklet``` that navigates the wearer using vibration. 
@@ -23,6 +24,11 @@ As well, two LED lights are also used as the outputs of the microcontroller to i
   This means one can easily find Vib device when lost, as well as the location of the other Vib it is connected to.
 * _Connect to Another Vib via Bluetooth_ : Vib will provide an option to connect to another Vib, which allows one to find the location of the other Vib wearer through vibration.
 * _Change Vibration Intensity_ : Through the Vib app, one will be able to easily change the vibration intensity. From workouts to daily walks, Vib can be felt in any environment.
-* _Change Light Style_ : As well, Vib also offers diverse light modes. One will be able to choose to turn off the LEDs during the day and bright and festive at night. 
+* _Change Light Style_ : As well, Vib also offers diverse light modes. One will be able to choose to turn off the LEDs during the day and bright and festive at night.
+
+## Flowchart 
+![image](https://github.com/user-attachments/assets/d0c0391a-2458-496b-8332-7e986077ad66)
+
+
 
 
